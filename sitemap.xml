@@ -1,71 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://greptail.github.io/broker/</loc>
+         <loc>https://greptail.github.io/broker.github.io/</loc>
          <lastmod>2026-02-24</lastmod>
     </url>
     <url>
-         <loc>https://greptail.github.io/broker/PULSAR_COMPARISON/</loc>
+         <loc>https://greptail.github.io/broker.github.io/PULSAR_COMPARISON/</loc>
          <lastmod>2026-02-24</lastmod>
     </url>
     <url>
-         <loc>https://greptail.github.io/broker/api/endpoints/</loc>
+         <loc>https://greptail.github.io/broker.github.io/api/endpoints/</loc>
          <lastmod>2026-02-24</lastmod>
     </url>
     <url>
-         <loc>https://greptail.github.io/broker/architecture/message-flow/</loc>
+         <loc>https://greptail.github.io/broker.github.io/architecture/message-flow/</loc>
          <lastmod>2026-02-24</lastmod>
     </url>
     <url>
-         <loc>https://greptail.github.io/broker/architecture/overview/</loc>
+         <loc>https://greptail.github.io/broker.github.io/architecture/overview/</loc>
          <lastmod>2026-02-24</lastmod>
     </url>
     <url>
-         <loc>https://greptail.github.io/broker/architecture/recovery/</loc>
+         <loc>https://greptail.github.io/broker.github.io/architecture/recovery/</loc>
          <lastmod>2026-02-24</lastmod>
     </url>
     <url>
-         <loc>https://greptail.github.io/broker/architecture/scaling/</loc>
+         <loc>https://greptail.github.io/broker.github.io/architecture/scaling/</loc>
          <lastmod>2026-02-24</lastmod>
     </url>
     <url>
-         <loc>https://greptail.github.io/broker/architecture/wal/</loc>
+         <loc>https://greptail.github.io/broker.github.io/architecture/wal/</loc>
          <lastmod>2026-02-24</lastmod>
     </url>
     <url>
-         <loc>https://greptail.github.io/broker/components/commands/</loc>
+         <loc>https://greptail.github.io/broker.github.io/components/commands/</loc>
          <lastmod>2026-02-24</lastmod>
     </url>
     <url>
-         <loc>https://greptail.github.io/broker/components/consumer/</loc>
+         <loc>https://greptail.github.io/broker.github.io/components/consumer/</loc>
          <lastmod>2026-02-24</lastmod>
     </url>
     <url>
-         <loc>https://greptail.github.io/broker/components/managed-ledger/</loc>
+         <loc>https://greptail.github.io/broker.github.io/components/managed-ledger/</loc>
          <lastmod>2026-02-24</lastmod>
     </url>
     <url>
-         <loc>https://greptail.github.io/broker/components/monitoring/</loc>
+         <loc>https://greptail.github.io/broker.github.io/components/monitoring/</loc>
          <lastmod>2026-02-24</lastmod>
     </url>
     <url>
-         <loc>https://greptail.github.io/broker/components/queue-manager/</loc>
+         <loc>https://greptail.github.io/broker.github.io/components/queue-manager/</loc>
          <lastmod>2026-02-24</lastmod>
     </url>
     <url>
-         <loc>https://greptail.github.io/broker/components/rate-limiting/</loc>
+         <loc>https://greptail.github.io/broker.github.io/components/rate-limiting/</loc>
          <lastmod>2026-02-24</lastmod>
     </url>
     <url>
-         <loc>https://greptail.github.io/broker/operations/configuration/</loc>
+         <loc>https://greptail.github.io/broker.github.io/operations/configuration/</loc>
          <lastmod>2026-02-24</lastmod>
     </url>
     <url>
-         <loc>https://greptail.github.io/broker/operations/database-tables/</loc>
+         <loc>https://greptail.github.io/broker.github.io/operations/database-tables/</loc>
          <lastmod>2026-02-24</lastmod>
     </url>
     <url>
-         <loc>https://greptail.github.io/broker/operations/deployment/</loc>
+         <loc>https://greptail.github.io/broker.github.io/operations/deployment/</loc>
          <lastmod>2026-02-24</lastmod>
     </url>
 </urlset>
